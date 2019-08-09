@@ -21,5 +21,5 @@ public abstract class Currency {
 
   public abstract double getValue();
 
-  public abstract String toString(String s);
+  public abstract String toString();
 }
